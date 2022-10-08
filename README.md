@@ -14,7 +14,6 @@ When I re-worked this project, I started by planning the sliding process through
 
 This way, it's easier to see some potential approach that can solve the sliding process. I also made this responsive, but the process of displaying items like 1, 2, or 3, depending on the browser's width was not done in SASS/CSS, it was done within the JavaScript code. Aside from that, for example, we slide right, then we are at item 6, whenever we resize the browser, we remain in that item. Then, if for example, we resize the browser to a smaller size, like it only shows 2 items where the default items shown is 3, the sliding process will be sliding 2 items when we slide right or left, as long as we have not slid at the first or the last item.
 
-<br />
 ### Packages Installed
 
 1. sass
