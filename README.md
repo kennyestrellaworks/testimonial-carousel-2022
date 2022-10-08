@@ -1,9 +1,7 @@
 ## Testimonial Carousel Component Fixed
 
-<br />
 This project is some sort of a **Testimonial Component** like many websites where you can slide left or right items. These items can be comments written by clients to services offered, it can have 5 ratings also, something like that.
 
-<br />
 This project actually was completed last year, July 2021 but it has plenty of bugs. Some fixes I did was around Sep 2021 but still it didn't fix the bug. It was hard to fix the code, since way back, I just coded the project directly after doing the design, and did not create some sort of planning or approach to solve the sliding process of the items. that's why it was not arranged. 
 
 The repository of that project is [here](https://github.com/kennyestrellaworks/testimonial-carousel-2/).
