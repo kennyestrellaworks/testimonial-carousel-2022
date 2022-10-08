@@ -29,6 +29,8 @@ This way, it's easier to see some potential approach that can solve the sliding 
 
 ![project-preview](project-preview.jpg)
 
+Live Site URL: [Live Demo](https://kennyestrella-testimonial-carousel.netlify.app/)
+
 ### Used technologies
 <img width="22px" src="html5-plain.svg"> <img width="22px" src="sass-original.svg"> <img width="22px" src="javascript-original.svg"> <img width="22px" src="npm-original-wordmark.svg">
 
